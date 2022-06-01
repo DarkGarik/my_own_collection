@@ -1,0 +1,5 @@
+---
+- name: Install Clickhouse
+  hosts: localhost
+  roles:
+    - my_own_role

@@ -1,0 +1,5 @@
+---
+- name: Test
+  my_own_module:
+    path: /tmp/test
+    content: blabla
